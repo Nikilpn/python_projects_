@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93b6749f-2f62-4411-b860-7bff850ab6a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/13Multilevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/17multilevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/19multilevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/20multilevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/21multilevel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/1starturtle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/2hexagonturtle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/10MROmultiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/10MROmultiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/11Multi.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/11Multi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/12Multi.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/12Multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/1single_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/1single_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/2single_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/2single_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/3single_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/3single_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/4single_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/4single_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/5beauty_of_super.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/5beauty_of_super.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/6single_inherit.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/6single_inherit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/7multiple_inherit.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/7multiple_inherit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/8multiple_inherit_override.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/8multiple_inherit_override.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/9multiple_inherit_override.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/9multiple_inherit_override.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/multiple inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/multiple inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/rect.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/rect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/Nikhil/single.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/single.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/single1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/single1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopss/tuple_unpacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopss/oops/Nikhil/tuple_unpacking.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2tmeRIUBteiCyNrsUg9UVGQ3bGb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93b6749f-2f62-4411-b860-7bff850ab6a6" name="Changes" comment="" />
+      <created>1740961668689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740961668689</updated>
+    </task>
+    <servers />
+  </component>
+</project>
