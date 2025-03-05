@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85b511ca-9492-4b25-a267-5e916cd8c4af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../python-oops/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/.idea/oopss.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/abstract/1abstract.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/access_specifiers/1access_specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/access_specifiers/2protected.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/access_specifiers/3protected.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/access_specifiers/4private.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/access_specifiers/5namemangling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/10MROmultiple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/11Multi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/12Multiple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/13Multilevel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/14multilevel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/15multilevel_over.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/16multilevel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/17multilevel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/18multilevel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/19multilevel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/1single_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/20multilevel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/21multilevel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/2single_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/3single_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/4single_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/5beauty_of_super.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/6single_inherit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/7multiple_inherit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/8multiple_inherit_override.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/9multiple_inherit_override.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/circle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/multiple inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/rect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/single.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/single1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/inheritance/tuple_unpacking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/polymorphism/1polymorphism.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/polymorphism/2method_overloading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/polymorphism/3methodoverriding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-oops/oops/polymorphism/4method overriding.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2tuNSWD7KAb8vi9iiNymqjn8X10" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ceaser_ciphle.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ceaser_ciphle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ceaser_cipher" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ceaser_ciphle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ceaser_ciphle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85b511ca-9492-4b25-a267-5e916cd8c4af" name="Changes" comment="" />
+      <created>1741198000543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741198000543</updated>
+    </task>
+    <servers />
+  </component>
+</project>
