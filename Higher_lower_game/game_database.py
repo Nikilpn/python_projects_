@@ -18,10 +18,10 @@ data=[
         'country': 'india'
     },
     {
-        'name': "Fit Tuber",
-        'follower_count': 7,
-        'description': 'youtuber',
-        'country': 'india'
+        'name': "Mr bean",
+        'follower_count': 300,
+        'description': 'actor',
+        'country': 'Britan'
     },
     {
         'name': "Mr.Beast",
@@ -44,7 +44,7 @@ data=[
     {
         'name': "Hrithik Roshan",
         'follower_count': 200,
-        'description': 'youtuber',
-        'country': 'America'
+        'description': 'actor',
+        'country': 'india'
     },
 ]
